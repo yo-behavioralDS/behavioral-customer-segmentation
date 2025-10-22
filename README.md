@@ -5,7 +5,7 @@ Segment online retail customers based on purchasing behavior using RFM (Recency,
 
 ---
 
-## Dataset
+## Dataset [Dataset Reference: E-Commerce Data (Kaggle)](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
 - **Source:** Kaggle — UK-based E-Commerce Dataset (2010–2011)
 - **Size:** 540,000 transactions
 - **Key Columns:** InvoiceNo, StockCode, Description, Quantity, UnitPrice, CustomerID, InvoiceDate, Country
